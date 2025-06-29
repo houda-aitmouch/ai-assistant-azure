@@ -18,4 +18,3 @@ An intelligent assistant that answers HR & Finance questions from a live Azure S
 - Python, Flask
 - Streamlit
 - pyodbc, dotenv, requests
-# ai-assistant-azure
